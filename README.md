@@ -3,7 +3,7 @@
 libNeuralDefMap is an open source project for the neural representation of the deformation map of continuum mechanics. In particular, it has been used for the machine learning acceleration of the material point method, a popular physics simulation framework. Check out the project page and the paper for details: https://peterchencyc.com/projects/rom4mpm/
 
 <p align="center">
-<img src="clips/vs_classic.png"  width="400"/>
+<img src="clips/vs_classic.png"  width="700"/>
 </p>
 
 In classical model reduction techniques, a mapping from the generalized coordinates is often trained to infer the deformed positions of a finite number of particles concatenated into a column vector. By contrast, our approach builds a manifold-parameterization function that maps the generalized coordinates and an arbitrary undeformed position to its current, deformed position.
@@ -48,7 +48,7 @@ See SimulationData.py for the structure of the h5 file.
 Sample data (including continual manipulation and tower deformation) can be downloaded from https://www.dropbox.com/sh/nfiv3mv29uuckgx/AAC5joZJS4YoiYnoBeOLepUra?dl=0
 
 <p align="center">
-<img src="clips/output_cyl_2x.gif"  width="320"/>
+<img src="clips/poiking_fr-red.gif"  width="320"/>
 <img src="clips/clip.gif"  width="320"/>
 </p>
 
