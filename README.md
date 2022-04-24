@@ -85,7 +85,7 @@ Below is an example (Houdini 18.5) where two sequences of h5 files are read.
 If this library helped you in a publication, please cite our paper so others can find our code and benefit as well.
 ```
 @misc{chen2021model,
-      title={Model reduction for the material point method via learning the deformation map and its spatial-temporal gradients}, 
+      title={Model reduction for the material point method via an implicit neural representation of the deformation map}, 
       author={Peter Yichen Chen and Maurizio Chiaramonte and Eitan Grinspun and Kevin Carlberg},
       year={2021},
       eprint={2109.12390},
